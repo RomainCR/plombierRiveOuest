@@ -1,5 +1,6 @@
 li {
-  list-style-type: none;
+	list-style-type: none;
+	margin: 8px;
 }
 
 ul {
@@ -45,4 +46,12 @@ footer {
 
 footer p {
 	margin-top: 50px
+}
+
+#contact {
+	background-color: #6FCACD;
+}
+
+#mail {
+	color: black;
 }
