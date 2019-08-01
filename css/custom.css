@@ -1,0 +1,48 @@
+li {
+  list-style-type: none;
+}
+
+ul {
+	padding:0;
+}
+
+h2 {
+	padding-top: 50px;
+}
+
+.img-fluid {
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.controle {
+	margin-top: 50px;
+}
+
+.low {
+	font-size: 0.8em;
+}
+
+.listing {
+	margin-top: 25px;
+}
+
+#logo {
+	width: 80px;
+	float: left;
+	padding-right: 20px;	
+}
+
+@media (max-width: 480px) {
+	#logo {
+		display: none;
+		}
+	}
+
+footer {
+	height: 120px;
+}
+
+footer p {
+	margin-top: 50px
+}
